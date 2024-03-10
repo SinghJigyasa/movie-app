@@ -1,3 +1,14 @@
+This project Contain Register and login page design with Tailwind.
+Connected to my bakend server. 
+Backend design in Node.js and Express.js.
+The DataBase used is Mongo DB.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
