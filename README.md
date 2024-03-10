@@ -1,7 +1,7 @@
-This project Contain Register and login page design with Tailwind.
-Connected to my bakend server. 
-Backend design in Node.js and Express.js.
-The DataBase used is Mongo DB.
+1.This project Contain Register and login page design with Tailwind.
+2.Connected to my bakend server. 
+3.Backend design in Node.js and Express.js.
+4.The DataBase used is Mongo DB.
 
 
 
